@@ -1,0 +1,22 @@
+img {
+    height: 200px;
+}
+
+.header{
+    background-color: lightblue;
+    padding: 10px;
+    border: 20px dashed pink;
+
+}
+.toy{
+    background-color: purple;
+    padding: 15px;
+    border: 25px dashed blue;
+    
+}
+.dog{
+     background-color: pink ;
+    padding: 13px;
+    border: 23px solid purple ;
+    
+}
